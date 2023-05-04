@@ -1,49 +1,21 @@
-<p align="center">
-  <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
-  </a>
-</p>
-<h1 align="center">
-  Gatsby Minimal Starter
-</h1>
+# CorbinKiefner/496Site
 
-## 🚀 Quick start
+Welcome to my CSE 496 course project GitHub repository! This repository contains the code for my personal website, which showcases my skills and experience in web development and provides information about my professional background.
 
-1.  **Create a Gatsby site.**
+## Viewing the Website
 
-    Use the Gatsby CLI to create a new site, specifying the minimal starter.
+https://496sitemain.gatsbyjs.io
 
-    ```shell
-    # create a new Gatsby site using the minimal starter
-    npm init gatsby
-    ```
+To view the website, simply click on the link provided in the repository description above. The website is hosted on GitHub Pages, so you can view it directly in your web browser without needing to download any files.
 
-2.  **Start developing.**
+## Building the Website
 
-    Navigate into your new site’s directory and start it up.
+The website is built using HTML, CSS, and JavaScript. I used HTML to structure the content, CSS for styling and layout, and JavaScript for interactivity and dynamic content.
 
-    ```shell
-    cd my-gatsby-site/
-    npm run develop
-    ```
+Feel free to explore the code in this repository to see how I built my website. You can also use it as a starting point for your own website projects.
 
-3.  **Open the code and start customizing!**
+## Contact
 
-    Your site is now running at http://localhost:8000!
+If you have any questions or feedback, don't hesitate to reach out to me directly through my GitHub profile.
 
-    Edit `src/pages/index.js` to see your site update in real-time!
-
-4.  **Learn more**
-
-    - [Documentation](https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-    - [Tutorials](https://www.gatsbyjs.com/docs/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-    - [Guides](https://www.gatsbyjs.com/docs/how-to/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-    - [API Reference](https://www.gatsbyjs.com/docs/api-reference/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-    - [Plugin Library](https://www.gatsbyjs.com/plugins?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-    - [Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-## 🚀 Quick start (Netlify)
-
-Deploy this starter with one click on [Netlify](https://app.netlify.com/signup):
-
-[<img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify" />](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-minimal)
+I hope you enjoy exploring my website and learning more about my skills and experience in web development. Thank you for visiting my repository!
